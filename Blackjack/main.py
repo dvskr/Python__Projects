@@ -1,13 +1,6 @@
 from random import choice
 from art import logo
-#assign cards to a variable
-#add random module and pick it from variable
-#dealer draws one card and waits until player says deal
 
-#player takes card until players clicks deal
-#if the player count is more than 21 it's a bust dealer is winner withdrawing further cards
-
-#dealer draws more cards after player confirms deal and draws the closest to 21 and min count is 17
 print(logo)
 def deal():
     cards=['A',2,3,4,5,6,7,8,9,10,'J','K','Q']
@@ -102,34 +95,5 @@ while game:
                 game = True
             else:
                 game = False
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#dealer draws one card and waits until player says deal
-
-#player takes card until players clicks deal
-#if the player count is more than 21 it's a bust dealer is winner withdrawing further cards
-
-#dealer draws more cards after player confirms deal and draws the closest to 21 and min count is 17
 
 
