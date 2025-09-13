@@ -1,3 +1,4 @@
+
 # ✨ Python Console Calculator ✨
 
 Welcome to the **Python Console Calculator**, a sleek and interactive command-line tool for performing quick arithmetic operations. Whether you're a Python beginner or just need a fast way to crunch numbers in your terminal, this calculator is your go-to solution.
